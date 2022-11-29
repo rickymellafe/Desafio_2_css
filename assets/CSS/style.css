@@ -1,0 +1,70 @@
+body{
+    background-color: lightgray;
+}
+
+header {
+    color: white;
+    background-image: url("/assets/imgs/img1.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 20rem;
+    padding-top: 1rem;
+}
+
+.header{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header h1{
+    font-size: 5rem ;
+    background-color: black;
+    /* padding: 0; */
+    margin-bottom: 0px;
+}
+
+header p{
+    font-size: 2em;
+    background-color: darkgrey;
+    /* padding: 0; */
+    margin-top: 0;
+}
+
+table{
+    width: 80%;
+    margin: auto;
+    padding: 3rem 0rem;
+}
+
+img{
+    height: 20em;
+    margin: 1rem 0px
+}
+
+td{
+    width: 50%;
+    text-align: left;
+}
+
+.imagen{
+    text-align: center;
+}
+
+table tr td div h1 {
+    font-size: 1.5rem;
+}
+
+table tr td div p{
+    margin: 0px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    padding: 1em;
+    text-align: center;
+}
+
+
