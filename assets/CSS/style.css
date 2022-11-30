@@ -4,7 +4,7 @@ body{
 
 header {
     color: white;
-    background-image: url("/assets/imgs/img1.jpeg");
+    background-image: url("../imgs/img1.jpeg");
     background-size: cover;
     background-position: center;
     height: 20rem;
